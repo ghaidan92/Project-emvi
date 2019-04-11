@@ -33,7 +33,7 @@ top: 20px;
 #sidebar .toggle-btn span {
 display: block;
 width: 30px;
-height: 5px;
+height: 3px;
 background: darkgray;
 margin: 5px 0px;
 }
@@ -46,6 +46,7 @@ margin: 5px 0px;
   /* margin-right: 250px; */
   /* margin-top: 5px; */
   color: yellow;
+  font-family: 'Rochester', cursive;
 }
 
 
